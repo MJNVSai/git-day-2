@@ -1,0 +1,5 @@
+sucessfully opened the text file
+git-workshop day-2
+1. git init ==> will initilizes the particular folder and creates a .git file
+		and that will be in hidden
+2. git status ==> will check the status of the files in that folder
